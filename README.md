@@ -1,10 +1,5 @@
 # Meta Ads Library Scraper 2025
 
-🚀 **Next-Generation Meta (Facebook) Ads Library Scraper** - Advanced Apify Actor with cutting-edge 2025 anti-detection techniques.
-
-## 📋 Overview
-
-This Apify Actor provides comprehensive data extraction from Meta's Ad Library using:
 
 - **🛡️ Advanced Anti-Detection** - Modern fingerprinting evasion and stealth techniques
 - **🔍 GraphQL Interception** - Captures comprehensive ad data directly from API calls
@@ -263,30 +258,6 @@ python facebook_ad_library_scraper_2025.py
 4. **Considera l'API ufficiale** quando possibile
 5. **Il metodo HAR è raccomandato** per uso commerciale
 
-### Disclaimer
-
-```
-Questo software è fornito "as-is" solo per scopi educativi e di ricerca.
-Gli utenti sono responsabili del rispetto dei Terms of Service di Facebook
-e delle leggi applicabili. Gli autori non si assumono responsabilità per
-l'uso improprio di questo software.
-```
-
-## 🤝 Contributi
-
-Contributi benvenuti! Per favore:
-
-1. Fork del repository
-2. Crea branch per la feature (`git checkout -b feature/AmazingFeature`)
-3. Commit delle modifiche (`git commit -m 'Add AmazingFeature'`)
-4. Push al branch (`git push origin feature/AmazingFeature`)
-5. Apri una Pull Request
-
-## 📞 Supporto
-
-- **Issues**: Apri un issue su GitHub
-- **Documentazione**: Leggi questo README
-- **Esempi**: Controlla la cartella `examples/`
 
 ## 🔄 Aggiornamenti
 
@@ -304,8 +275,4 @@ Contributi benvenuti! Per favore:
 - 🔄 Analisi sentiment automatica
 - 🔄 Export PowerBI/Tableau
 
----
-
-**⭐ Se questo progetto ti è utile, lascia una stella su GitHub!**
-
-*Ultimo aggiornamento: Gennaio 2025*
+---NiksHacks
