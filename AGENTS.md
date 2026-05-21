@@ -1,8 +1,11 @@
-# Instrukcje dla agentów AI - meta-ads-library-scraper
+⚠️ ZANIM COKOLWIEK ZROBISZ W TYM REPO:
 
-> [!IMPORTANT]
-> **Zasady nadrzędne:** Przeczytaj `~/BeautyAI_hub/AGENTS.md` — to kanoniczny plik zasad dla WSZYSTKICH agentów.
-> Ten plik zawiera TYLKO specyfikę tego projektu.
+1. **OTWÓRZ I PRZECZYTAJ** `~/BeautyAI_hub/AGENTS.md` — to KANON. Ten plik jest NADRZĘDNY.
+2. Sprawdź `git status`.
+3. Wróć do tego pliku po specyfikę projektu.
+4. Po sesji: log do `~/BeautyAI_hub/05-AGENTS/agent-log.md`.
+
+---
 
 ## Specyfika projektu
 
